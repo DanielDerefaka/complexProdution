@@ -28,7 +28,7 @@ function TradingViewWidget() {
           "calendar": false,
           "support_host": "https://www.tradingview.com"
         }`;
-      container.current.appendChild(script);
+      
     },
     []
   );
